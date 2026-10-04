@@ -1,0 +1,12 @@
+#	Thunk	Ordinal	Hint	Имя
+0	0000a6f6		024a	StartServiceCtrlDispatcherA
+1	0000a6d8		020c	RegisterServiceCtrlHandlerA
+2	0000a6c0		0034	ChangeServiceConfig2A
+3	0000a6ac		0244	SetServiceStatus
+4	0000a69a		01ad	OpenSCManagerA
+5	0000a688		0064	CreateServiceA
+6	0000a672		003e	CloseServiceHandle
+7	0000a662		0249	StartServiceA
+8	0000a650		0096	CryptGenRandom
+9	0000a638		0085	CryptAcquireContextA
+10	0000a714		01af	OpenServiceA

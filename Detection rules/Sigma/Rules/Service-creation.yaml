@@ -1,0 +1,23 @@
+
+title: WannaCry Service Installation Command
+id: 91c7e4b3-5a26-4d18-9f72-2b6e8c1a7045
+status: experimental
+description: Detects installation of the WannaCry-associated mssecsvc2.0 service with its security-mode command.
+author: lerawhite
+date: 2026-10-03
+tags:
+    - attack.persistence
+    - attack.t1543.003
+logsource:
+    product: windows
+    service: system
+    definition: 'Requires Windows service creation telemetry exposing the service command line.'
+detection:
+    selection:
+        EventID: 7045
+        ServiceName: 'mssecsvc2.0'
+        ImagePath|contains: '-m security'
+    condition: selection
+falsepositives:
+    - Unknown
+level: high

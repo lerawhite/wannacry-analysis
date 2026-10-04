@@ -1,0 +1,19 @@
+title: WannaCry Tasksche Execution
+id: 3f72c1a9-6d84-4e50-b821-95c7a0431ef6
+status: experimental
+description: Detects execution of the tasksche.exe payload with the /i argument associated with WannaCry.
+author: lerawhite
+date: 2026-10-03
+tags:
+    - attack.execution
+logsource:
+    category: process_creation
+    product: windows
+detection:
+    selection:
+        Image|endswith: '\tasksche.exe'
+        CommandLine|contains: ' /i'
+    condition: selection
+falsepositives:
+    - Unknown software using the same filename and argument
+level: high

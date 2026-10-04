@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "2e5e6c28d1d006d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07422dcf66503aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a98bebe1fbcfe34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "349f80d6f8d78176",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1fd14d9a569acd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a3ede45c3e9dd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cea1b2f51108593f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "62a77b76d82aa9b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437
+  },
+  "right": {
+    "id": "859b6ac5a4e6572e",
+    "type": "split",
+    "children": [
+      {
+        "id": "137b7ac278d7a686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "009956b4e055a696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analysis/Deep_Analysis/Reverse_Analysis/Functions/0x00407C40.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "c2f7ecbf7a4be929",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analysis/Deep_Analysis/Reverse_Analysis/Functions/0x00407C40.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "723495925147bca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "facce222697704d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "58d8ca43048aaa7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "deep_analysis/workflow analysis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "00a3ede45c3e9dd3",
+  "lastOpenFiles": [
+    "Pasted image 20261004172606.png",
+    "Analysis/Deep reverse/Screens/graph.png",
+    "README.md",
+    "Analysis/Deep reverse/Screens/Analysis paradigm.png",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 6.png",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/Specific-Q-byte-gated.md",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/Algorithm-crypto-provider-selection.md",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/DOUBLEPULSAR-XORKey-Derivation.md",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/Extracted-PE-blobs-selection-and-copy.md",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/Specific-compare(network-extracted-bytes).md",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/Specific-network-size-transfer-R-byte-gated.md",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 5.png",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 4.png",
+    "Analysis/Deep reverse/Functions/0x00406F50.md",
+    "Analysis/Deep reverse/Functions/0x004072A0.md",
+    "Analysis/Deep reverse/Functions/0x00407540.md",
+    "Analysis/Deep reverse/Functions/0x00401B70.md",
+    "Analysis/Deep reverse/Functions/0x00401980.md",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 3.png",
+    "Detection rules/YARA/About rules development.md",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 2_.png",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 2.png",
+    "Analysis/Deep reverse/Functions/0x00407A20.md",
+    "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules",
+    "Detection rules/YARA/Rules/Byte-pattern/Rules",
+    "Detection rules/YARA/Development explanation/Screens",
+    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 1.png",
+    "Detection rules/YARA/Development explanation",
+    "Mitre att&ck/README.md",
+    "Mitre att&ck/Mitre Att&ck mapping.md",
+    "Mitre att&ck",
+    "Analysis/Deep reverse/Functions/0x00407620.md",
+    "Analysis/Deep reverse/Functions/0x00407B90.md",
+    "Analysis/Deep reverse/Functions/0x00407BD0.md",
+    "Analysis/Deep reverse/Functions/0x00408000.md",
+    "Analysis/Deep reverse/Functions/0x00408090.md",
+    "Analysis/Deep reverse/Functions/0x00408140.md",
+    "Analysis/Deep reverse/Functions/Entry point.md",
+    "Detection rules/YARA/Rules/Byte-pattern/Specific-Q-byte-gated.yara",
+    "Detection rules/YARA/Rules/Byte-pattern/Specific-metadata(extracted-rsrc).yara",
+    "Detection rules/YARA/Rules/Byte-pattern/Specific-data(rsrcTypeID).yara",
+    "Detection rules/YARA/Rules/Byte-pattern/Specific-data(rsrcID).yara",
+    "Detection rules/YARA/Rules/Byte-pattern/Specific-compare(network_extracted_bytes).yara",
+    "Detection rules/Sigma/About rules development.md",
+    "Evidance & IOCs/Network.md",
+    "analysis/4.deep_analysis/static&dynamic/Excalidraw/Без названия.canvas",
+    "Excalidraw/Без названия.canvas"
+  ]
+}

@@ -1,0 +1,4 @@
+#	Thunk	Ordinal	Hint	Имя
+0	0000a7dc		0092	InternetOpenA
+1	0000a7c8		0093	InternetOpenUrlA
+2	0000a7b2		0069	InternetCloseHandle
