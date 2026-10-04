@@ -45,7 +45,7 @@ TLS Directory - empty
 
 ## Sections
 
-![](Sections%20info.png)
+![](Screens/Sections%20info.png)
 
 ```Entropy
 .headers - 0.72670
@@ -85,11 +85,11 @@ FileAlignment    = 0x1000
 
 3. Analysis with HxD show two pe blobs in **.data section**.
    **First pe blob**:
-   ![](First%20pe%20blob.png)
+   ![](Screens/First%20pe%20blob.png)
    ! Eventual size ~ 0x4000.
    
    **Second pe blob**:
-   ![](Second%20pe%20blob.png)
+   ![](Screens/Second%20pe%20blob.png)
    ! It is unpossible to measure size, as it gets confused with other data.
    
    

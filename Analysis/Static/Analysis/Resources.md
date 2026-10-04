@@ -26,16 +26,16 @@ marked as encrypted.
 SHA-256 - ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
 ```
 
-![](screen_of_rsrc(die).png)
+![](../Screens/screen_of_rsrc(die).png)
 
 
 
 **Wannacry.exe(rsrc_pe_blob_struct_1part)**
-![](wannacry.exe(rsrc_pe_blob_struct_1part).png)
+![](../Screens/wannacry.exe(rsrc_pe_blob_struct_1part).png)
 
 
 **Wannacry.exe(rsrc_pe_blob_struct_2part)** 
-![](wannacry.exe(rsrc_pe_blob_struct_2part).png)
+![](../Screens/wannacry.exe(rsrc_pe_blob_struct_2part).png)
 
 **SHA256**:
-![](SHA256_of_rsrc_blob.png)
+![](../Screens/SHA256_of_rsrc_blob.png)

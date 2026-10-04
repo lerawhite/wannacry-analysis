@@ -1,7 +1,7 @@
 
 ---
 **Figure 1. Byte pattern for rule**
-![](YARA%20byte%20rule%201.png)
+![](../Screens/YARA%20byte%20rule%201.png)
 ### Research Basis
 
 The rule was derived from the reverse-engineering analysis of function `0x00407620`, which initializes the cryptographic subsystem.

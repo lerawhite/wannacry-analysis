@@ -1,4 +1,4 @@
-![](graph.png)
+![](Analysis/Deep%20reverse/Screens/graph.png)
 
 
 # Contents:
@@ -256,7 +256,7 @@ The final report consolidates the evidence collected throughout the investigatio
 
 Thus, the overall methodology follows:
 
-![700](Analysis%20paradigm.png)
+![](Analysis/Deep%20reverse/Screens/Analysis%20paradigm.png)
 
 
 

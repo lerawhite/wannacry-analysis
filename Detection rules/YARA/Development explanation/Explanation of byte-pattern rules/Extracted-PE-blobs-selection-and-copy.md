@@ -1,10 +1,10 @@
 
 ---
-![](YARA%20byte%20rule%202.png)
+![](../Screens/YARA%20byte%20rule%202.png)
 
 ---
 **Figure 1. Byte pattern for rule**
-![](YARA%20byte%20rule%202_.png)
+![](../Screens/YARA%20byte%20rule%202_.png)
 
 
 ---

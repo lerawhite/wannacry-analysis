@@ -1,7 +1,7 @@
 
 ---
 **Figure 1. Byte pattern for rule**
-![](YARA%20byte%20rule%206.png)
+![](../Screens/YARA%20byte%20rule%206.png)
 
 ---
 
