@@ -399,6 +399,16 @@ The repository can therefore be approached in two complementary ways:
 ```
 
 ---
+## License
+
+This project is licensed under the **MIT License**.
+
+The license applies only to the original materials created by the author, including source code, scripts, YARA/Sigma rules, and other original project materials.
+
+The analyzed WannaCry malware sample, third-party materials, referenced research, trademarks, and other content not created by the author are **not covered by this license** and remain subject to their respective rights, licenses, and restrictions.
+
+See the `LICENSE` file for the full license text.
+
 
 ## Research & AI Assistance
 
@@ -425,3 +435,17 @@ The final analytical conclusions, observations, reverse-engineering work, eviden
 
 `Special thanks to ChatGPT — GPT-5.6 Luna — for assisting throughout the entire research process. <3`
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+`this is to you, adel <3`
