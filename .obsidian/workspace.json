@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Analysis/Deep reverse/Functions/0x00401370.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "0x00401370"
             }
           }
         ]
@@ -190,11 +190,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "00a3ede45c3e9dd3",
+  "active": "7a98bebe1fbcfe34",
   "lastOpenFiles": [
+    "Analysis/Deep reverse/Functions/0x00401B70.md",
+    "README.md",
+    "Без названия.md",
+    "ыц.png",
     "Pasted image 20261004172606.png",
     "Analysis/Deep reverse/Screens/graph.png",
-    "README.md",
     "Analysis/Deep reverse/Screens/Analysis paradigm.png",
     "Detection rules/YARA/Development explanation/Screens/YARA byte rule 6.png",
     "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules/Specific-Q-byte-gated.md",
@@ -208,7 +211,6 @@
     "Analysis/Deep reverse/Functions/0x00406F50.md",
     "Analysis/Deep reverse/Functions/0x004072A0.md",
     "Analysis/Deep reverse/Functions/0x00407540.md",
-    "Analysis/Deep reverse/Functions/0x00401B70.md",
     "Analysis/Deep reverse/Functions/0x00401980.md",
     "Detection rules/YARA/Development explanation/Screens/YARA byte rule 3.png",
     "Detection rules/YARA/About rules development.md",
@@ -218,7 +220,6 @@
     "Detection rules/YARA/Development explanation/Explanation of byte-pattern rules",
     "Detection rules/YARA/Rules/Byte-pattern/Rules",
     "Detection rules/YARA/Development explanation/Screens",
-    "Detection rules/YARA/Development explanation/Screens/YARA byte rule 1.png",
     "Detection rules/YARA/Development explanation",
     "Mitre att&ck/README.md",
     "Mitre att&ck/Mitre Att&ck mapping.md",
@@ -236,7 +237,6 @@
     "Detection rules/YARA/Rules/Byte-pattern/Specific-data(rsrcID).yara",
     "Detection rules/YARA/Rules/Byte-pattern/Specific-compare(network_extracted_bytes).yara",
     "Detection rules/Sigma/About rules development.md",
-    "Evidance & IOCs/Network.md",
     "analysis/4.deep_analysis/static&dynamic/Excalidraw/Без названия.canvas",
     "Excalidraw/Без названия.canvas"
   ]
